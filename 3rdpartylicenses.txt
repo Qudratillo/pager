@@ -27,6 +27,8 @@ SOFTWARE.
 
 @angular-mdc/web/icon-button
 
+@angular-mdc/web/linear-progress
+
 @angular-mdc/web/list
 
 @angular/animations
@@ -123,6 +125,9 @@ MIT
 @angular/router
 MIT
 
+@material/animation
+MIT
+
 @material/base
 MIT
 
@@ -133,6 +138,9 @@ MIT
 MIT
 
 @material/line-ripple
+MIT
+
+@material/linear-progress
 MIT
 
 @material/list
